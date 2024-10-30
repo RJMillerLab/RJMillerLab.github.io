@@ -1,200 +1,281 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Renée J. Miller",
+    "label": "Canada Excellence Research Chair in Data Intelligence",
+    "url": "https://rjmillerlab.github.io/",
+    "summary": "Professor and researcher specializing in data management, data integration, metadata management, data quality, and big data curation. Currently serving as the Canada Excellence Research Chair (CERC) in Data Intelligence at the University of Waterloo.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "University of Waterloo",
+      "city": "Waterloo",
+      "region": "Ontario",
+      "countryCode": "CA"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "unknown",
+        "url": "unknown"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "University of Waterloo",
+      "location": "Waterloo, ON",
+      "description": "Leading research on data intelligence",
+      "position": "Professor & Canada Excellence Research Chair in Data Intelligence",
+      "startDate": "2024"
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Northeastern University",
+      "location": "Boston, MA",
+      "description": "Advanced research in computer science and data management",
+      "position": "University Distinguished Professor",
+      "startDate": "2018"
+    },
+    {
+      "name": "University of Toronto",
+      "location": "Toronto, ON",
+      "position": "Professor of Computer Science",
+      "startDate": "2004",
+      "endDate": "2016",
+      "highlights": [
+        "Bell Canada Chair of Information Systems (2006-2016)",
+        "Associate Professor with tenure (2001-2004)",
+        "Assistant Professor of Computer Science (1998-2001)"
+      ]
+    },
+    {
+      "name": "Stanford University",
+      "location": "Palo Alto, CA",
+      "description": "Visiting research in computer science",
+      "position": "Visiting Professor",
+      "startDate": "2001",
+      "endDate": "2002"
+    },
+    {
+      "name": "IBM Almaden Research Center",
+      "location": "San Jose, CA",
+      "description": "Research on distributed information systems",
+      "position": "Visiting Scientist",
+      "startDate": "2001",
+      "endDate": "2002"
+    },
+    {
+      "name": "Ohio State University",
+      "location": "Columbus, OH",
+      "description": "Research and teaching in computer science",
+      "position": "Assistant Professor",
+      "startDate": "1994",
+      "endDate": "1998"
+    },
+    {
+      "name": "UNIVERSITY of WISCONSIN",
+      "location": "Madison, WI",
+      "position": "Research & teaching assistant",
+      "startDate": "1991",
+      "endDate": "1994"
+    },
+    {
+      "name": "AT&T-Bell Laboratories",
+      "location": "Holmdel, NJ",
+      "description": "Developed distributed information system architectures",
+      "position": "Distributed information system architectures",
+      "startDate": "1989",
+      "endDate": "1991"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Wisconsin-Madison",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "1991",
+      "endDate": "1994",
+      "thesis": "Managing Structural Heterogeneity",
+      "advisor": "Yannis Ioannidis"
+    },
+    {
+      "institution": "University of Wisconsin-Madison",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "1987",
+      "endDate": "1989"
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "area": "Mathematics",
+      "studyType": "B.S.",
+      "startDate": "1983",
+      "endDate": "1987"
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "area": "Cognitive Science",
+      "studyType": "B.S.",
+      "startDate": "1983",
+      "endDate": "1987"
     }
+
   ],
   "awards": [
+ 
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Fellow of AAAS",
+      "date": "2024",
+      "awarder": "American Association for the Advancement of Science"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Alonzo Church Award for Outstanding Contributions to Logic",
+      "date": "2021",
+      "awarder": "Alonzo Church Association",
+      "summary": "Recognized for contributions to logical foundations for data exchange."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "EDBT Best Paper Award",
+      "date": "2021"    },
+    {
+      "title": "CS Canada Lifetime Achievement Award in Computer Science",
+      "date": "2020",
+      "summary": "Recognized for pioneering work in data integration, schema mapping, and data exchange."
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "VLDB Women in Database Research Award",
+      "date": "2018"    },
+      {
+        "title": "PVLDB Best Demonstration Award \"Interactive Navigation of Open Data Linkages\"",
+        "date": "2017"    },
+        {
+          "title": "Theoretical Computer Science (Journal) 2nd Most Cited Paper 2005-2014",
+          "date": "2015"    },
+          
+    {
+      "title": "ICDT Test-of-Time Award",
+      "date": "2013"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "title": "NSERC Accelerator Award for Exceptional Opportunity",
+      "date": "2013"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "Fellow of the Royal Society of Canada (FRSC)",
+      "date": "2011"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Data Management",
+      "level": "Expert",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Big Data",
+        "Metadata Management",
+        "Data Curation",
+        "Data Provenance",
+        "Data Quality",
+        "Heterogeneous Databases",
+        "Data Integration",
+        "Data Exchange"
       ]
     }
   ],
-  "languages": [
+  "publications": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "A Large Scale Test Corpus for Semantic Table Search",
+      "releaseDate": "2024",
+      "authors": [
+        "Aristotelis Leventidis",
+        "Martin Pekár Christensen",
+        "Matteo Lissandrini",
+        "Laura Di Rocco",
+        "Katja Hose",
+        "Renée J. Miller"
+      ],
+      "publisher": "SIGIR",
+      "summary": "A comprehensive test corpus for semantic table search."
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Domainnet: Homograph detection and understanding in data lake disambiguation",
+      "releaseDate": "2023",
+      "authors": [
+        "Aristotelis Leventidis",
+        "Laura Di Rocco",
+        "Wolfgang Gatterbauer",
+        "Renée J. Miller",
+        "Mirek Riedewald"
+      ],
+      "publisher": "ACM Trans. Database Syst. (TODS)",
+      "summary": "A study on homograph detection in data lakes."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Canada Excellence Research Chair in Data Intelligence",
+      "startDate": "2024",
+      "summary": "Leading a large-scale research initiative on data intelligence.",
+      "roles": ["Principal Investigator"],
+      "entity": "NSERC",
+      "funding": "Can $8,000,000"
+    },
+    {
+      "name": "Semantic Version Management in Data Lakes",
+      "startDate": "2023",
+      "summary": "NSF-funded research on semantic version management in data lakes.",
+      "roles": ["Principal Investigator"],
+      "entity": "NSF",
+      "funding": "US $600,000"
+    }
+  ],
+  "patents": [
+    {
+      "title": "System and Method for Schema Mappings",
+      "inventors": ["L. M. Haas", "M. A. Hernández-Sherrington", "Renée J. Miller"],
+      "filed": 2000,
+      "issued": 2006,
+      "patent_number": "US 7010539"
+    },
+    {
+      "title": "Efficient Determination of Homogeneous Rectangles in a Binary Matrix",
+      "inventors": ["J. Edmonds", "J. Gryz", "D. Liang", "Renée J. Miller"],
+      "filed": 2000,
+      "issued": 2006,
+      "patent_number": "US 7113955"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "VLDB Endowment",
+      "position": "President",
+      "startDate": "2010",
+      "endDate": "2014",
+      "summary": "Oversaw VLDB conference and related publications."
+    },
+    {
+      "organization": "Communications of the ACM (CACM)",
+      "position": "Associate Editor",
+      "startDate": "2024",
+      "endDate": "2027",
+      "summary": "Contributed to the editorial direction of CACM."
+    },
+    {
+      "organization": "Max Planck Institute for Informatics",
+      "position": "Scientific Advisory Board Member",
+      "startDate": "2015",
+      "endDate": "2021"
+    }
+  ],
+  "professionalActivities": [
+    {
+      "role": "Program Committee Chair",
+      "organization": "ACM SIGMOD",
+      "year": "2011",
+      "summary": "Led program committee activities for SIGMOD conference."
+    },
+    {
+      "role": "PC Co-Chair",
+      "organization": "VLDB Business Intelligence Workshop",
+      "year": "2009",
+      "summary": "Organized BI workshop at VLDB with Umesh Dayal and Malu Castellanos."
     }
   ]
+  
 }
