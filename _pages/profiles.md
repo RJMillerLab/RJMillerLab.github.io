@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: RJMiller Lab
-description: members of the lab or group
+description: Renée J. Miller Lab
 nav: true
 nav_order: 7
 
