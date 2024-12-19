@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /labs/
-title: Renée J. Miller Lab
+title: Renée J. Miller Labs
 description: 
 nav: true
 nav_order: 7
