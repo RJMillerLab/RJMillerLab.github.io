@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: RJMiller Lab
-description: Renée J. Miller Lab
+permalink: /labs/
+title: Renée J. Miller Lab
+description: 
 nav: true
 nav_order: 7
 
