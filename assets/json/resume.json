@@ -102,35 +102,7 @@
       ]
     }
   ],
-  "publications": [
-    {
-      "name": "A Large Scale Test Corpus for Semantic Table Search",
-      "releaseDate": "2024",
-      "authors": [
-        "Aristotelis Leventidis",
-        "Martin Pekár Christensen",
-        "Matteo Lissandrini",
-        "Laura Di Rocco",
-        "Katja Hose",
-        "Renée J. Miller"
-      ],
-      "publisher": "SIGIR",
-      "summary": "A comprehensive test corpus for semantic table search."
-    },
-    {
-      "name": "Domainnet: Homograph detection and understanding in data lake disambiguation",
-      "releaseDate": "2023",
-      "authors": [
-        "Aristotelis Leventidis",
-        "Laura Di Rocco",
-        "Wolfgang Gatterbauer",
-        "Renée J. Miller",
-        "Mirek Riedewald"
-      ],
-      "publisher": "ACM Trans. Database Syst. (TODS)",
-      "summary": "A study on homograph detection in data lakes."
-    }
-  ],
+
   "projects": [
     {
       "name": "Canada Excellence Research Chair in Data Intelligence",
@@ -177,7 +149,13 @@
       "position": "Scientific Advisory Board Member",
       "startDate": "2015",
       "endDate": "2021"
-    }
+    },
+    {
+      "organization": "VLDB Journal",
+      "position": "Editor-in-Chief",
+      "startDate": "2015",
+      "endDate": "2024"
+    },
   ],
   "professionalActivities": [
     {
