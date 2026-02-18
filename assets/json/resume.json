@@ -37,28 +37,8 @@
       "thesis": "Managing Structural Heterogeneity",
       "advisor": "Yannis Ioannidis"
     },
-    {
-      "institution": "University of Wisconsin-Madison",
-      "area": "Computer Science",
-      "studyType": "M.S.",
-      "startDate": "1987",
-      "endDate": "1989"
-    },
-    {
-      "institution": "Massachusetts Institute of Technology",
-      "area": "Mathematics",
-      "studyType": "B.S.",
-      "startDate": "1983",
-      "endDate": "1987"
-    },
-    {
-      "institution": "Massachusetts Institute of Technology",
-      "area": "Cognitive Science",
-      "studyType": "B.S.",
-      "startDate": "1983",
-      "endDate": "1987"
-    }
 
+   
   ],
   "awards": [
  
@@ -84,9 +64,7 @@
     {
       "title": "VLDB Women in Database Research Award",
       "date": "2018"    },
-      {
-        "title": "PVLDB Best Demonstration Award \"Interactive Navigation of Open Data Linkages\"",
-        "date": "2017"    },
+  
         {
           "title": "Theoretical Computer Science (Journal) 2nd Most Cited Paper 2005-2014",
           "date": "2015"    },
@@ -97,11 +75,15 @@
     },
     {
       "title": "NSERC Accelerator Award for Exceptional Opportunity",
-      "date": "2013"
+      "date": "2008 & 2013"
     },
     {
       "title": "Fellow of the Royal Society of Canada (FRSC)",
       "date": "2011"
+    },
+    {
+      "title": "ACM Fellow",
+      "date": "2009"
     }
   ],
   "skills": [
@@ -157,14 +139,6 @@
       "roles": ["Principal Investigator"],
       "entity": "NSERC",
       "funding": "Can $8,000,000"
-    },
-    {
-      "name": "Semantic Version Management in Data Lakes",
-      "startDate": "2023",
-      "summary": "NSF-funded research on semantic version management in data lakes.",
-      "roles": ["Principal Investigator"],
-      "entity": "NSF",
-      "funding": "US $600,000"
     }
   ],
   "patents": [
@@ -183,7 +157,7 @@
       "patent_number": "US 7113955"
     }
   ],
-  "volunteer": [
+  "service": [
     {
       "organization": "VLDB Endowment",
       "position": "President",
