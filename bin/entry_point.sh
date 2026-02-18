@@ -18,7 +18,11 @@ manage_gemfile_lock() {
 
 start_jekyll() {
     manage_gemfile_lock
-    bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace --force_polling &
+    # When running with volume mount, ensure gems match Gemfile.lock (e.g. bundle install)
+    if [ -d /srv/jekyll ] && [ -f /srv/jekyll/Gemfile ]; then
+        (cd /srv/jekyll && bundle config set --local path 'vendor/bundle' && bundle install --quiet)
+    fi
+    (cd /srv/jekyll && bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace --force_polling) &
 }
 
 start_jekyll

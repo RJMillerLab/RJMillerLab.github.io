@@ -692,10 +692,22 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
+        display: block;
+        width: 100%;
+        min-width: 200px;
+        max-width: 100%;
+        height: auto;
+        max-height: 360px;
+        object-fit: contain;
+        object-position: top left;
       }
 
       .abbr {
         margin-bottom: 0.5rem;
+        max-width: 100%;
+        min-width: 200px;
+        margin-right: 1rem;
+        flex-shrink: 0;
 
         abbr {
           display: inline-block;
@@ -715,6 +727,26 @@ footer.sticky-bottom {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
         }
+      }
+
+      .row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-items: flex-start;
+      }
+
+      .row > .abbr {
+        flex: 0 0 auto;
+        width: 33.333%;
+        max-width: 320px;
+      }
+
+      .row > .col-sm-8,
+      .row > .col-sm-10 {
+        flex: 1 1 auto;
+        min-width: 0;
+        padding-left: 1.25rem;
       }
 
       .title {

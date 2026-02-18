@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'observer'  # required by citeproc-ruby on Ruby 4+
+    gem 'ostruct'   # required by jekyll-twitter-plugin on Ruby 4+
+    gem 'benchmark' # required by google-scholar-citations plugin on Ruby 4+
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'

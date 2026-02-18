@@ -80,7 +80,34 @@ You can easily create your own collections, apps, short stories, courses, or wha
 
 To add publications create a new entry in the [\_bibliography/papers.bib](_bibliography/papers.bib) file. You can find the BibTeX entry of a publication in Google Scholar by clicking on the quotation marks below the publication title, then clicking on "BibTeX", or also in the conference page itself. By default, the publications will be sorted by year and the most recent will be displayed first. You can change this behavior and more in the `Jekyll Scholar` section in [\_config.yml](_config.yml) file.
 
-You can add extra information to a publication, like a PDF file in the `assets/pdfs/` directory and add the path to the PDF file in the BibTeX entry with the `pdf` field. Some of the supported fields are: `abstract`, `altmetric`, `annotation`, `arxiv`, `bibtex_show`, `blog`, `code`, `dimensions`, `doi`, `eprint`, `html`, `isbn`, `pdf`, `pmid`, `poster`, `slides`, `supp`, `video`, and `website`.
+You can add extra information to a publication, like a PDF file in the `assets/pdfs/` directory and add the path to the PDF file in the BibTeX entry with the `pdf` field. Some of the supported fields are: `abstract`, `altmetric`, `annotation`, `arxiv`, `bibtex_show`, `blog`, `code`, `dimensions`, `doi`, `eprint`, `html`, `isbn`, `pdf`, `pmid`, `poster`, `preview`, `slides`, `supp`, `video`, and `website`.
+
+### Publication preview image (e.g. anime GIF) and links
+
+To show an image or **anime GIF on the left** of each publication (thumbnails must be enabled in `_config.yml`: `enable_publication_thumbnails: true`):
+
+- **Preview image/GIF:** Add a `preview` field to the BibTeX entry.
+  - **Local file (recommended):** Put one image/GIF per paper in **`assets/img/publication_preview/`** and name it so you can match it to the paper (e.g. `modeltables.gif` for the ModelTables paper). Set `preview = {modeltables.gif}`. The site supports animated GIFs when the filename ends in `.gif`.
+  - **External URL:** Set `preview = {https://example.com/your-anime.gif}` (e.g. from your personal site).
+
+**Links** appear as buttons under each publication. Add any of these to the BibTeX entry (no need to duplicate `arxiv` if you already have `eprint`):
+
+- `code = {https://github.com/...}` — Code
+- `website = {https://...}` — Project page / main link
+- `pdf`, `video`, `poster`, `slides`, `blog`, `supp`, `html` — same idea (URL or path under `assets/`)
+
+**Convention:** Put your added fields (`preview`, `code`, `website`, etc.) **at the end** of each BibTeX entry. To mark them, put a **comment above** the `@article`/`@inproceedings` line (do **not** put `%` inside the entry—some BibTeX parsers used by Jekyll-Scholar can break and hide the publication):
+
+```bibtex
+% --- added for this entry: preview (modeltables.gif), code, website
+@article{DBLP:journals/corr/abs-2512-16106,
+  ...
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+  preview      = {modeltables.gif},
+  code         = {https://github.com/RJMillerLab/ModelTables},
+  website      = {https://huggingface.co/papers/2512.16106}
+}
+```
 
 ### Author annotation
 
