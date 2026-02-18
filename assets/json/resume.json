@@ -9,14 +9,7 @@
       "city": "Waterloo",
       "region": "Ontario",
       "countryCode": "CA"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "unknown",
-        "url": "unknown"
-      }
-    ]
+    }
   },
   "work": [
     {
@@ -36,9 +29,7 @@
       "endDate": "1994",
       "thesis": "Managing Structural Heterogeneity",
       "advisor": "Yannis Ioannidis"
-    },
-
-   
+    }
   ],
   "awards": [
  
@@ -129,7 +120,7 @@
       "patent_number": "US 7113955"
     }
   ],
-  "service": [
+  "volunteer": [
     {
       "organization": "VLDB Endowment",
       "position": "President",
@@ -155,7 +146,7 @@
       "position": "Editor-in-Chief",
       "startDate": "2015",
       "endDate": "2024"
-    },
+    }
   ],
   "professionalActivities": [
     {
