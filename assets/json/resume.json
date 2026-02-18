@@ -25,64 +25,6 @@
       "description": "Leading research on data intelligence",
       "position": "Professor & Canada Excellence Research Chair in Data Intelligence",
       "startDate": "2024"
-    },
-    {
-      "name": "Northeastern University",
-      "location": "Boston, MA",
-      "description": "Advanced research in computer science and data management",
-      "position": "University Distinguished Professor",
-      "startDate": "2018"
-    },
-    {
-      "name": "University of Toronto",
-      "location": "Toronto, ON",
-      "position": "Professor of Computer Science",
-      "startDate": "2004",
-      "endDate": "2016",
-      "highlights": [
-        "Bell Canada Chair of Information Systems (2006-2016)",
-        "Associate Professor with tenure (2001-2004)",
-        "Assistant Professor of Computer Science (1998-2001)"
-      ]
-    },
-    {
-      "name": "Stanford University",
-      "location": "Palo Alto, CA",
-      "description": "Visiting research in computer science",
-      "position": "Visiting Professor",
-      "startDate": "2001",
-      "endDate": "2002"
-    },
-    {
-      "name": "IBM Almaden Research Center",
-      "location": "San Jose, CA",
-      "description": "Research on distributed information systems",
-      "position": "Visiting Scientist",
-      "startDate": "2001",
-      "endDate": "2002"
-    },
-    {
-      "name": "Ohio State University",
-      "location": "Columbus, OH",
-      "description": "Research and teaching in computer science",
-      "position": "Assistant Professor",
-      "startDate": "1994",
-      "endDate": "1998"
-    },
-    {
-      "name": "UNIVERSITY of WISCONSIN",
-      "location": "Madison, WI",
-      "position": "Research & teaching assistant",
-      "startDate": "1991",
-      "endDate": "1994"
-    },
-    {
-      "name": "AT&T-Bell Laboratories",
-      "location": "Holmdel, NJ",
-      "description": "Developed distributed information system architectures",
-      "position": "Distributed information system architectures",
-      "startDate": "1989",
-      "endDate": "1991"
     }
   ],
   "education": [
