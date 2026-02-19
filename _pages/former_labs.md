@@ -16,7 +16,7 @@ and the Data Lab at Northeastern University in Boston. Alumni (and current membe
 
 [Grace Fan](https://gracefan2020.github.io)   PhD December 2024
 
-[Aamod Khatiwada](https://aamodkh.github.io)  PhD January 2025
+[Aamod Khatiwada](https://aamodkh.github.io)  PhD December 2024
 
 [Aristotelis Sigiouan Leventidis](https://leventidis.github.io)  PhD June 2025
 
