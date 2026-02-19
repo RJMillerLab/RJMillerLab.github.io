@@ -58,7 +58,3 @@ Email: edrolle@uwaterloo.ca
 
 [**Francesco Pugnaloni**](https://hpi.de/naumann/people/francesco-pugnaloni.html) *(Visiting Student, Oct&nbsp;–&nbsp;Dec 2025; Ph.D. Student, Hasso Plattner Institute (HPI), Germany)*  
 <!-- Visiting Student, Oct 2025 - Dec 2025, Ph.D. Student at Hasso Plattner Institute (HPI), Germany. -->
-
----
-
-My former labs include the [Data Curation Lab](https://www.cs.toronto.edu/~miller/) at the University of Toronto and the Data Lab at Northeastern University in Boston. For more alumni from previous groups, please refer to these lab websites.
