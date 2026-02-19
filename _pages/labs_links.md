@@ -25,7 +25,7 @@ Email: edrolle@uwaterloo.ca
 [**Yuhan Liu**](https://uk.linkedin.com/in/yuhan-liu-6a6a6a318) *(Postdoctoral Researcher, University of Waterloo, Sep 2025&nbsp;–&nbsp;present; co-supervised by [Prof. Xi He](https://cs.uwaterloo.ca/~xihe/))*  
 <!-- Ph.D. Renmin University of China, Postdoctoral Researcher at University of Waterloo, Sep 2025 - present, Co-supervised by Professor Xi He. -->
 
-[**Bruno Scarone**](https://www.khoury.northeastern.edu/people/bruno-scarone/) *(Ph.D. Student, Northeastern University, 2021&nbsp;–&nbsp;present)*  
+[**Bruno Scarone**](https://bscarone.github.io) *(Ph.D. Student, Northeastern University, 2021&nbsp;–&nbsp;present)*  
 <!-- B.S. Computer Engineering, University of the Republic — Uruguay, Ph.D. Student at Northeastern University, 2021 - present. -->
 
 [**Koyena Pal**](https://koyenapal.github.io/) *(Ph.D. Student, Northeastern University, Sep 2022&nbsp;–&nbsp;present; co-supervised by [Prof. David Bau](https://baulab.info/))*  
