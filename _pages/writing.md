@@ -4,7 +4,7 @@ permalink: /writing/
 title: Writing
 description: Tips for writing about computer science research in English.
 nav: true
-nav_order: 8
+nav_order: 6
 ---
 
 *From the [Data Curation Lab @ University of Toronto](https://www.cs.toronto.edu/~miller/Research/writing.html): tips for writing about computer science research in English.*

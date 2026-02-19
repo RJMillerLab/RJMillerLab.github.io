@@ -1,10 +1,10 @@
 ---
 layout: profiles
 permalink: /labs/
-title: Renée J. Miller Labs
+title: Data Intelligence Lab
 description: 
 nav: true
-nav_order: 7
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
