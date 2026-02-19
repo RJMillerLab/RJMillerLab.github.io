@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-My former labs are the [Data Curation Lab](https://www.cs.toronto.edu/~miller/) at the University of Toronto (including [lab members](https://www.cs.toronto.edu~miller/students.html)) <br>
+My former labs are the [Data Curation Lab](https://www.cs.toronto.edu/~miller/) at the University of Toronto (including [lab members](https://www.cs.toronto.edu/~miller/students.html)) <br>
 and the Data Lab at Northeastern University in Boston. Alumni (and current members) of the latter are listed below.  
 
 [Koyena Pal](https://koyenapal.github.io) PhD student co-supervised with [David Bau](https://baulab.info)
