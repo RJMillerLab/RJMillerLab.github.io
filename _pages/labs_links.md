@@ -9,7 +9,7 @@ Office: DC 3355
 
 ---
 
-## Administrative Manager
+## Senior Program Manager
 
 [**Liz Drolle**](https://uwaterloo.ca/leonenko-research-group/contacts/dr-liz-drolle)
 Office: DC 3342
