@@ -42,9 +42,9 @@ Email: edrolle@uwaterloo.ca
 
 ---
 
-## Alumni
+## Affiliated Lab Members
 
-[**Chao Zhang**](https://chaozhang-cs.github.io/) *(formerly Postdoctoral Researcher, University of Waterloo, Sep 2024&nbsp;–&nbsp;Feb 2026 → Junior Professor Chair, Université Claude Bernard Lyon 1, France)*  
+[**Chao Zhang**](https://chaozhang-cs.github.io/) **Adjunct Professor University Waterloo** *(formerly Postdoctoral Researcher, University of Waterloo, Sep 2024&nbsp;–&nbsp;Feb 2026 → Junior Professor Chair, Université Claude Bernard Lyon 1, France)*  
 <!-- Postdoctoral Researcher, Sep 2024 - Feb 2026, now Junior Professor Chair at Université Claude Bernard Lyon 1, France. -->
 
 [**Karima Echihabi**](https://echihabi.com/) *(Visiting Scholar, Jul 2025; Assistant Professor, Mohammed VI Polytechnic University (UM6P), Morocco)*  
