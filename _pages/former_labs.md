@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /former-labs/
-title: Data Curation Lab
-description: Renée J. Miller's former research groups
+title: History and Roots of My Lab
+description: Renée's research history
 nav: true
 nav_order: 5
 ---
