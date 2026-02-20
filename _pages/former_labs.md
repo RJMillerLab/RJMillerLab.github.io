@@ -1,14 +1,18 @@
 ---
 layout: page
 permalink: /former-labs/
-title: Former Labs
+title: Data Curation Lab
 description: Renée J. Miller's former research groups
 nav: true
 nav_order: 5
 ---
 
-My former labs are the [Data Curation Lab](https://www.cs.toronto.edu/~miller/) at the University of Toronto (including [lab members](https://www.cs.toronto.edu/~miller/students.html)) <br>
-and the Data Lab at Northeastern University in Boston. Alumni (and current members) of the latter are listed below.  
+Prior to creating the Data Intelligence Lab at Waterloo, 
+I led the  **Data Curation Lab** [https://www.cs.toronto.edu/~miller/](https://www.cs.toronto.edu/~miller/) in the Computer Science Department at the University of Toronto.
+Our illustrious list of members can be found [here](https://www.cs.toronto.edu/~miller/students.html).
+
+I was also a member of the **Data Lab at Northeastern University** in Boston. <br> 
+Esteemed alumni (and current members) of this lab are listed below.  
 
 [Koyena Pal](https://koyenapal.github.io) PhD student co-supervised with [David Bau](https://baulab.info)
 
