@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /former-labs/
-title: History and Roots of My Lab
+title: History of Lab
 description: Renée's research history
 nav: true
 nav_order: 5
