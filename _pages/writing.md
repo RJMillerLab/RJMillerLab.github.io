@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-*From the [Data Curation Lab @ University of Toronto](https://www.cs.toronto.edu/~miller/Research/writing.html): tips for writing about computer science research in English.*
+_From the [Data Curation Lab @ University of Toronto](https://www.cs.toronto.edu/~miller/Research/writing.html): tips for writing about computer science research in English._
 
 Strunk and White's **[The Elements of Style]**(https://en.wikipedia.org/wiki/The_Elements_of_Style) is a great starting point for CS writers. When you deviate from the rules, be sure it is intentional and that what receives attention is your ideas, not your writing. For an essay on how good writing in English differs from other languages, see Zinsser's [Writing English as a Second Language](http://theamericanscholar.org/writing-english-as-a-second-language/).
 
@@ -38,7 +38,7 @@ See Knuth, Larrabee, and Roberts, [Mathematical Writing](http://www-cs-faculty.s
 - **Compound modifiers and compound nouns** should be hyphenated to avoid ambiguity (e.g. "binary data-structure" vs "binary-data structure" these mean different things). See [compounds](https://www.merriam-webster.com/grammar/hyphen-rules-open-closed-compound-words).
 - **Bullet lists:** punctuate consistently; use consistent structure in each item; if the list contains full sentences, do not start it with a colon.
 - **Enumerated nouns:** capitalize consistently (e.g. "Figure 1," "Function f," "Equation 32a") or not at all; do not switch.
-- **How and what** are not interchangeable. *How* is not a pronoun. **Right:** "what it looks like" and "how it looks." **Wrong:** "how it looks like."
+- **How and what** are not interchangeable. _How_ is not a pronoun. **Right:** "what it looks like" and "how it looks." **Wrong:** "how it looks like."
 - A **preposition** is not something to end a sentence **with**.
 - **So-called** means "commonly named" or "improperly named" (negative connotation), not just "named."
 - **On the other hand** should be used sparingly and never for more than two alternatives.

@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /labs/
 title: Data Intelligence Lab
-description: 
+description:
 nav: true
 nav_order: 4
 

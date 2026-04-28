@@ -32,7 +32,6 @@
     }
   ],
   "awards": [
- 
     {
       "title": "Fellow of AAAS",
       "date": "2024",
@@ -46,7 +45,8 @@
     },
     {
       "title": "EDBT Best Paper Award",
-      "date": "2021"    },
+      "date": "2021"
+    },
     {
       "title": "CS Canada Lifetime Achievement Award in Computer Science",
       "date": "2020",
@@ -54,12 +54,14 @@
     },
     {
       "title": "VLDB Women in Database Research Award",
-      "date": "2018"    },
-  
-        {
-          "title": "Theoretical Computer Science (Journal) 2nd Most Cited Paper 2005-2014",
-          "date": "2015"    },
-          
+      "date": "2018"
+    },
+
+    {
+      "title": "Theoretical Computer Science (Journal) 2nd Most Cited Paper 2005-2014",
+      "date": "2015"
+    },
+
     {
       "title": "ICDT Test-of-Time Award",
       "date": "2013"
@@ -160,5 +162,4 @@
       "summary": "Organized BI workshop at VLDB with Umesh Dayal and Malu Castellanos."
     }
   ]
-  
 }
