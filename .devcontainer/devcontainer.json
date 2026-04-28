@@ -9,11 +9,19 @@
     "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
       "packages": "build-essential,imagemagick,inotify-tools,jupyter-nbconvert,procps,ruby-full,zlib1g-dev"
     },
-    "ghcr.io/devcontainers-contrib/features/prettier:1": {}
+    "ghcr.io/devcontainers-extra/features/prettier:1": {}
   },
 
   // Optionally: run jekyll serve automatically on container entering using the Docker entrypoint
   "postAttachCommand": "./bin/entry_point.sh",
+
+  // Forward the Jekyll dev server (8080) and LiveReload (35729) ports to the host
+  // so the site is reachable at http://localhost:8080 without manual setup.
+  "forwardPorts": [8080, 35729],
+  "portsAttributes": {
+    "8080": { "label": "Jekyll", "onAutoForward": "openBrowser" },
+    "35729": { "label": "LiveReload", "onAutoForward": "silent" }
+  },
 
   "customizations": {
     "vscode": {
