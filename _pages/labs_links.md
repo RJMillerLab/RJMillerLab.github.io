@@ -19,6 +19,10 @@ Email: edrolle@uwaterloo.ca
 
 ## Current Members
 
+[**Mahdi Esmailoghli**](https://www.user.tu-berlin.de/esmailoghli/) _(Postdoctoral Researcher, University Waterloo, May 2026nbsp;–&nbsp;present)_
+
+<!-- Visiting Scholar, Sep 2025, Postdoctoral Researcher at Humboldt-Universität zu Berlin, Germany. -->
+
 [**Besat Kassaie**](https://besatkassaie.github.io/) _(Postdoctoral Researcher, University of Waterloo, Jun 2024&nbsp;–&nbsp;present)_
 
 <!-- Ph.D. University of Waterloo, Postdoctoral Researcher at University of Waterloo, Jun 2024 - present. -->
@@ -39,7 +43,9 @@ Email: edrolle@uwaterloo.ca
 
 <!-- B.S. Wuhan University, Ph.D. Student at University of Waterloo, Jan 2024 - present. -->
 
-[**Mazen El Sedfy**](https://www.linkedin.com/in/mazen-el-sedfy) _(Master’s Student, University of Waterloo, expected start May 2026)_
+[**Mazen El Sedfy**](https://www.linkedin.com/in/mazen-el-sedfy) _(Master’s Student, University of Waterloo,  May 2026nbsp;–&nbsp;present)_
+
+**Chenning Wu** _(Visiting PhD Student, Fudan Universiity, May 2026nbsp;–&nbsp;present)_
 
 <!-- Master Student, Expected Start: May 2026. -->
 
@@ -63,9 +69,7 @@ Email: edrolle@uwaterloo.ca
 
 <!-- Visiting Scholar, Sep-Oct 2025, Assistant Professor at University of Amsterdam, Netherlands. -->
 
-[**Mahdi Esmailoghli**](https://www.user.tu-berlin.de/esmailoghli/) _(Visiting Scholar, Sep 2025; Postdoctoral Researcher, Humboldt-Universität zu Berlin, Germany)_
 
-<!-- Visiting Scholar, Sep 2025, Postdoctoral Researcher at Humboldt-Universität zu Berlin, Germany. -->
 
 [**Francesco Pugnaloni**](https://hpi.de/naumann/people/francesco-pugnaloni.html) _(Visiting Student, Oct&nbsp;–&nbsp;Dec 2025; Ph.D. Student, Hasso Plattner Institute (HPI), Germany)_
 
