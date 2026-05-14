@@ -1,3 +1,10 @@
+---
+layout: page
+title: Teaching
+description: Teaching activities and materials
+nav: true
+nav_order: 5
+---
 ### Teaching
 
 
