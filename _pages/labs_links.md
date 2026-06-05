@@ -43,7 +43,7 @@ Email: edrolle@uwaterloo.ca
 
 <!-- B.S. Wuhan University, Ph.D. Student at University of Waterloo, Jan 2024 - present. -->
 
-[**Mazen El Sedfy**](https://www.linkedin.com/in/mazen-el-sedfy) _(Master’s Student, University of Waterloo,  May 2026nbsp;–&nbsp;present)_
+[**Mazen El Sedfy**](https://mazenelsedfy.github.io/) _(Master’s Student, University of Waterloo,  May 2026nbsp;–&nbsp;present)_
 
 **Chenning Wu** _(Visiting PhD Student, Fudan Universiity, May 2026nbsp;–&nbsp;present)_
 
