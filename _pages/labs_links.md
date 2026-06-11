@@ -45,7 +45,7 @@ Email: edrolle@uwaterloo.ca
 
 [**Mazen El Sedfy**](https://mazenelsedfy.github.io/) _(Master’s Student, University of Waterloo,  May 2026nbsp;–&nbsp;present)_
 
-**Chenning Wu** _(Visiting PhD Student, Fudan Universiity, May 2026nbsp;–&nbsp;present)_
+[**Chenning Wu**](https://programmerwcn.github.io/) _(Visiting PhD Student, Fudan Universiity, May 2026nbsp;–&nbsp;present)_
 
 <!-- Master Student, Expected Start: May 2026. -->
 
