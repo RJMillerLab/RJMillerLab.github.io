@@ -19,7 +19,7 @@ Email: edrolle@uwaterloo.ca
 
 ## Current Members
 
-[**Mahdi Esmailoghli**](https://www.user.tu-berlin.de/esmailoghli/) _(Postdoctoral Researcher, University Waterloo, May 2026nbsp;–&nbsp;present)_
+[**Mahdi Esmailoghli**](https://esmailoghli.github.io/) _(Postdoctoral Researcher, University Waterloo, May 2026nbsp;–&nbsp;present)_
 
 <!-- Visiting Scholar, Sep 2025, Postdoctoral Researcher at Humboldt-Universität zu Berlin, Germany. -->
 
