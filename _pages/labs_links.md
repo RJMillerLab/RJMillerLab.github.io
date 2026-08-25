@@ -65,16 +65,16 @@ Email: edrolle@uwaterloo.ca
 
 <!-- Visiting Student, Oct 2025 - Dec 2025, Ph.D. Student at Hasso Plattner Institute (HPI), Germany. -->
 
-[**Chenning Wu**](https://programmerwcn.github.io/) _(Visiting Student, Fudan University, May 2026&nbsp;–&nbsp;present)_
+[**Chenning Wu**](https://programmerwcn.github.io/) _(Visiting Student, May 2026&nbsp;–&nbsp;Aug 2026, Fudan University)_
 
-**Siyuan Zhao** B.S. Student, University of Waterloo, Nov 2025&nbsp;–&nbsp;Aug 2026
+**Siyuan Zhao** _(B.S. Student, University of Waterloo, Nov 2025&nbsp;–&nbsp;Aug 2026)_
 
-**Xiaoyang Liu** B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026
+**Xiaoyang Liu** _(B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026)_
 
-**Jennifer Shi** B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026
+**Jennifer Shi** _(B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026)_
 
-**Yifan Zhang** B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026
+**Yifan Zhang** _(B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026)_
 
-**Faith Tong** B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026
+**Faith Tong** _(B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026)_
 
-**Vincent Zhang** B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026
+**Vincent Zhang** _(B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026)_
