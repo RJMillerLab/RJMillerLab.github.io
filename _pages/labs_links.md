@@ -45,14 +45,6 @@ Email: edrolle@uwaterloo.ca
 
 [**Mazen El Sedfy**](https://mazenelsedfy.github.io/) _(Master’s Student, University of Waterloo,  May 2026nbsp;–&nbsp;present)_
 
-[**Chenning Wu**](https://programmerwcn.github.io/) _(Visiting PhD Student, Fudan Universiity, May 2026nbsp;–&nbsp;present)_
-
-<!-- Master Student, Expected Start: May 2026. -->
-
-[**Siyuan Zhao**](https://www.linkedin.com/in/siyuan-zhao-esprz/) _(B.S. Student, University of Waterloo, Oct 2025&nbsp;–&nbsp;present)_
-
-<!-- B.S. Student, University of Waterloo, Oct 2025 - present. -->
-
 ---
 
 ## Affiliated Lab Members
@@ -69,8 +61,20 @@ Email: edrolle@uwaterloo.ca
 
 <!-- Visiting Scholar, Sep-Oct 2025, Assistant Professor at University of Amsterdam, Netherlands. -->
 
-
-
 [**Francesco Pugnaloni**](https://hpi.de/naumann/people/francesco-pugnaloni.html) _(Visiting Student, Oct&nbsp;–&nbsp;Dec 2025; Ph.D. Student, Hasso Plattner Institute (HPI), Germany)_
 
 <!-- Visiting Student, Oct 2025 - Dec 2025, Ph.D. Student at Hasso Plattner Institute (HPI), Germany. -->
+
+[**Chenning Wu**](https://programmerwcn.github.io/) _(Visiting Student, Fudan University, May 2026&nbsp;–&nbsp;present)_
+
+**Siyuan Zhao** B.S. Student, University of Waterloo, Nov 2025&nbsp;–&nbsp;Aug 2026
+
+**Xiaoyang Liu** B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026
+
+**Jennifer Shi** B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026
+
+**Yifan Zhang** B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026
+
+**Faith Tong** B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026
+
+**Vincent Zhang** B.S. Student, May 2026&nbsp;–&nbsp;Aug 2026
